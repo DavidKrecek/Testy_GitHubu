@@ -1,2 +1,4 @@
 pokus
-pokus 2
+dodělání v jiné větvi bug branch
+asi jako dalsi
+>>>>>>> bug-branch
