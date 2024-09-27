@@ -2,3 +2,4 @@ pokus
 dodělání v jiné větvi bug branch
 asi jako dalsi
 >>>>>>> bug-branch
+fasf
